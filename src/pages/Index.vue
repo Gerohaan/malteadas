@@ -20,7 +20,7 @@
       
       <div class="col self-center">
         <q-chip outline  color="deep-orange" text-color="white" icon="local_drink" size="xl">
-           <h5 class="text-italic">Tu malteada favorita en pocos pasos</h5>
+           <h5 class="text-italic">Tu malteada favorita</h5>
         </q-chip>
       
       </div>

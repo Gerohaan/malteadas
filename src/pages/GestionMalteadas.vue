@@ -20,7 +20,7 @@
       <div class="col self-center">
       <!-- <h5 class="text-italic">Crea tus malteadas</h5> -->
        <q-chip outline  color="deep-orange" text-color="white" icon="local_drink" size="xl">
-        Gestiona tus malteadas
+        Gestionar
       </q-chip>
       </div>
       

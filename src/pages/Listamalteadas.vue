@@ -18,7 +18,7 @@
       
       <div class="col self-center">
        <q-chip outline  color="deep-orange" text-color="white" icon="storage" size="xl">
-        Lista de malteadas
+        Lista
        </q-chip>
       </div>
       
